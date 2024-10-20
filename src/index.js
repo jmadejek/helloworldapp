@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Hello World from ${regionName}, yay!</h1>
+        <h1>Hello World from ${regionName}, XD</h1>
       </div>
     </body>
     </html>
